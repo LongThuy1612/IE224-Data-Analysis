@@ -1,10 +1,12 @@
 # IE224-Data Analysis
-<br></br>
+
+
 ## Phân tích và dự báo khách hàng rời bỏ
 ### 1. Bộ dữ liệu
 <p>Bộ dữ liệu lấy từ <a href = "https://www.kaggle.com/competitions/customer-churn-prediction-2020/data">Kaggle</a></p>
 <p>Bộ dữ liệu là dữ liệu kinh doanh đến từ 1 công ty viễn thông</p>
 <p>Dữ liệu gồm 19 biến độc lập</p>
+
 ### 2. Mục tiêu đồ án
 <ul>
   <li>Tập trung phân tích các lý do khiến khách hàng rời bỏ</li>
